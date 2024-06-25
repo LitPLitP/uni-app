@@ -27,7 +27,7 @@ function About() {
             Looking ahead, I aspire to start one or two businesses, enhance my programming skills, increase my involvement in community service, learn boxing and sword fighting, and continue on my journey of personal growth.
           </p>
           <p>
-            All of these experiences have brought me to the point of making decisions about my future, particularly in terms of my university education. After researching various options, I have identified Khalifa University as one of my top choices, especially because of its specialization in AI. I believe that this university will provide me with the environment and resources to become the best version of myself. If given the opportunity, I am confident that I can contribute significantly to the university community.
+            All of these experiences have brought me to the point of making decisions about my future, particularly in terms of my university education. After researching various options, I have identified Abu Dhabi University as one of my top choices, especially because of its specialization in AI. I believe that this university will provide me with the environment and resources to become the best version of myself. If given the opportunity, I am confident that I can contribute significantly to the university community.
           </p>
         </div>
       </div>
